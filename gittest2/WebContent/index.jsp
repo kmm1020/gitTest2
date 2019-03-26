@@ -18,5 +18,10 @@
 		<li>SERVLET</li>
 		<li>JDBC</li>
 	</ul>
+	<ul>
+		<li>변수 선언</li>
+		<li>메소드 선언</li>
+		<li>클래스 선언</li>
+	</ul>
 </body>
 </html>
