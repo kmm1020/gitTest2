@@ -19,9 +19,15 @@
 		<li>JDBC</li>
 	</ul>
 	<ul>
+
 		<li>변수 선언</li>
 		<li>메소드 선언</li>
 		<li>클래스 선언</li>
+	</ul>
+	<ul>
+		<li>git 기본</li>
+		<li>git init</li>
+		<li>git add</li>
 	</ul>
 </body>
 </html>
