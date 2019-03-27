@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
+	<ul>
+		<li>git add</li>
+		<li>git push</li>
+		<li>git fetch</li>
+		<li>git merge</li>
+	</ul>
 </body>
 </html>
